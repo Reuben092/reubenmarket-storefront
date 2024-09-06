@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # reubenmarket-storefront
 =======
+=======
+>>>>>>> 8c605df (Added redirect btns for Vendor panel)
 <p align="center">
   <a href="https://www.medusajs.com">
   <picture>
@@ -304,4 +307,7 @@ The middleware also sets a cookie based on the onboarding status of a user. This
 - [Website](https://nextjs.org/)
 - [GitHub](https://github.com/vercel/next.js)
 - [Documentation](https://nextjs.org/docs)
+<<<<<<< HEAD
+>>>>>>> 8c605df (Added redirect btns for Vendor panel)
+=======
 >>>>>>> 8c605df (Added redirect btns for Vendor panel)

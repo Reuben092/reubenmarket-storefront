@@ -2,7 +2,11 @@ import { Region } from "@medusajs/medusa";
 import { notFound } from "next/navigation";
 import { NextRequest, NextResponse } from "next/server";
 
+<<<<<<< HEAD
 const BACKEND_URL = "https://reubenmarket.onrender.com";
+=======
+const BACKEND_URL = process.env.NEXT_PUBLIC_MEDUSA_BACKEND_URL;
+>>>>>>> 8c605df (Added redirect btns for Vendor panel)
 const DEFAULT_REGION = process.env.NEXT_PUBLIC_DEFAULT_REGION || "us";
 
 const regionMapCache = {
